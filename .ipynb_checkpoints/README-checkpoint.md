@@ -18,6 +18,11 @@ Here are some fun and short projects I've been working on in my free time to be 
 
 
 # Probability and Statistics
+### [Analyzing Movie Reviews]()
+**Language** : Python   
+**Libraries** : pandas, matplotlib, seaborn, scipy  
+**Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
+
 ### [Explore Birth Dates in the United States](https://github.com/LisaRivalin/Portfolio/blob/master/Probability%20%26%20Statistics/US%20Birth/Explore%20U.S%20Births.ipynb)
 **Language** : Python   
 **Libraries** : -  
