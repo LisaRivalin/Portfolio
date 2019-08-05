@@ -9,7 +9,12 @@ Here are some fun and short projects I've been working on in my free time to be 
 ### [Classify Song Genres From Audio Data](https://github.com/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Classify%20Song%20Genres%20from%20Audio%20Data/classify_song_genres.ipynb)
 **Language** : Python  
 **Libraries** : pandas, scikit-learn  
-**Algorithms/methods** : Pearson correlation, PCA, Standardization, Decision Trees, Logistic Regression, Cross-validation  
+**Algorithms/methods** : Pearson correlation, PCA, Standardization, Decision Trees, Logistic Regression, Cross-validation 
+
+### [Car Price Prediction]()
+**Language** : Python  
+**Libraries** : pandas, NumPy, Seaborn, scikit-learn  
+**Algorithms/methods** : K-nearest neighbors, mean squared error
 
 
 # Probability and Statistics
