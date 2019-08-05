@@ -18,12 +18,12 @@ Here are some fun and short projects I've been working on in my free time to be 
 
 
 # Data Analytics
-### [Comparing Movie Review Services](https://github.com/LisaRivalin/Portfolio/blob/master/Data%Analytics/Movie%20reviews/Analyzing%20Movie%20Reviews.ipynb)
+### [Comparing Movie Review Services](https://github.com/LisaRivalin/Portfolio/blob/master/Data%20Analytics/Movie%20reviews/Analyzing%20Movie%20Reviews.ipynb)
 **Language** : Python   
 **Libraries** : pandas, matplotlib, seaborn, scipy  
 **Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
 
-### [Explore Birth Dates in the United States](https://github.com/LisaRivalin/Portfolio/blob/master/Data%Analytics/US%20Birth/Explore%20U.S%20Births.ipynb)
+### [Explore Birth Dates in the United States](https://github.com/LisaRivalin/Portfolio/blob/master/Data%20Analytics/US%20Birth/Explore%20U.S%20Births.ipynb)
 **Language** : Python   
 **Libraries** : -  
 **Algorithms/methods** : -
