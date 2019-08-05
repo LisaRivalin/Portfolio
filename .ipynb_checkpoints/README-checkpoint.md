@@ -18,7 +18,7 @@ Here are some fun and short projects I've been working on in my free time to be 
 
 
 # Probability and Statistics
-### [Analyzing Movie Reviews]()
+### [Comparing Movie Review Services](https://github.com/LisaRivalin/Portfolio/blob/master/Probability%20%26%20Statistics/Movie%20reviews/Analyzing%20Movie%20Reviews.ipynb)
 **Language** : Python   
 **Libraries** : pandas, matplotlib, seaborn, scipy  
 **Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
