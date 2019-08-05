@@ -17,13 +17,13 @@ Here are some fun and short projects I've been working on in my free time to be 
 **Algorithms/methods** : K-nearest neighbors, mean squared error
 
 
-# Probability and Statistics
-### [Comparing Movie Review Services](https://github.com/LisaRivalin/Portfolio/blob/master/Probability%20%26%20Statistics/Movie%20reviews/Analyzing%20Movie%20Reviews.ipynb)
+# Data Analytics
+### [Comparing Movie Review Services](https://github.com/LisaRivalin/Portfolio/blob/master/Data%Analytics/Movie%20reviews/Analyzing%20Movie%20Reviews.ipynb)
 **Language** : Python   
 **Libraries** : pandas, matplotlib, seaborn, scipy  
 **Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
 
-### [Explore Birth Dates in the United States](https://github.com/LisaRivalin/Portfolio/blob/master/Probability%20%26%20Statistics/US%20Birth/Explore%20U.S%20Births.ipynb)
+### [Explore Birth Dates in the United States](https://github.com/LisaRivalin/Portfolio/blob/master/Data%Analytics/US%20Birth/Explore%20U.S%20Births.ipynb)
 **Language** : Python   
 **Libraries** : -  
 **Algorithms/methods** : -
