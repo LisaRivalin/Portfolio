@@ -11,6 +11,11 @@ Here are some fun and short projects I've been working on in my free time to be 
 **Libraries** : pandas, scikit-learn  
 **Algorithms/methods** : Pearson correlation, PCA, Standardization, Decision Trees, Logistic Regression, Cross-validation 
 
+### [House Price Prediction](https://github.com/LisaRivalin/Portfolio/blob/master/Machine%20Learning/House%20Sale%20Price/House%20Price.ipynb)
+**Language** : Python  
+**Libraries** : pandas, NumPy, Seaborn, scikit-learn  
+**Algorithms/methods** : Linear regression, cross-validation, K-fold, mean squared error
+
 ### [Car Price Prediction](https://github.com/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Car%20prices/Car%20Price%20Prediction.ipynb)
 **Language** : Python  
 **Libraries** : pandas, NumPy, Seaborn, scikit-learn  
