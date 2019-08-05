@@ -11,7 +11,7 @@ Here are some fun and short projects I've been working on in my free time to be 
 **Libraries** : pandas, scikit-learn  
 **Algorithms/methods** : Pearson correlation, PCA, Standardization, Decision Trees, Logistic Regression, Cross-validation 
 
-### [Car Price Prediction]()
+### [Car Price Prediction](https://github.com/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Car%20prices/Car%20Price%20Prediction.ipynb)
 **Language** : Python  
 **Libraries** : pandas, NumPy, Seaborn, scikit-learn  
 **Algorithms/methods** : K-nearest neighbors, mean squared error
