@@ -8,7 +8,7 @@ Here are some fun and short projects I've been working on in my free time to be 
 
 ### [Find Movie Similarity from Plot Summaries](https://github.com/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Find%20Movie%20Similarity%20from%20Plot%20Summaries/Movie_Similarity.ipynb)
 **Language** : Python  
-**Libraries** : pandas, scikit-learn, NLTK, re, matplotlib
+**Libraries** : pandas, scikit-learn, NLTK, re, matplotlib  
 **Algorithms/methods** : Tokenization, Stemming, tf–idf, KMeans-Clustering, cosine similarity, dendrograms
 
 ### [Classify Song Genres From Audio Data](https://github.com/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Classify%20Song%20Genres%20from%20Audio%20Data/classify_song_genres.ipynb)
