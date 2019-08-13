@@ -33,13 +33,17 @@ Here are some fun and short projects I've been working on in my free time to be 
 **Libraries** : pandas, matplotlib, seaborn, scipy  
 **Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
 
-### [Analyzing CIA's World Factbook Data using SQLite and Python ](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/World%20Factbook/World%20Factbook.ipynb)
-**Language** : Python, SQL   
+### [Analyzing CIA's World Factbook](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/World%20Factbook/World%20Factbook.ipynb)
+**Languages** : Python, SQL   
 **Libraries** : sqlite3, pandas, matplotlib, seaborn  
 **Algorithms/methods** : Histograms
+
+### [Exploring Gun Deaths in the US](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/Gun%20Deaths/Gun%20Deaths.ipynb)
+**Language** : Python   
+**Libraries** : csv, datetime  
+**Algorithms/methods** : -
 
 ### [Explore Birth Dates in the United States](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/US%20Birth/Explore%20U.S%20Births.ipynb)
 **Language** : Python   
 **Libraries** : -  
 **Algorithms/methods** : -
-
