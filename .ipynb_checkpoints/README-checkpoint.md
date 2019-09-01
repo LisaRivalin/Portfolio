@@ -38,6 +38,11 @@ Here are some fun and short projects I've been working on in my free time to be 
 **Libraries** : pandas, matplotlib, seaborn, scipy  
 **Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
 
+### [Analyzing New York City High Schools](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/NYC%20Schools/NYC%20Schools.ipynb)
+**Language** : Python   
+**Libraries** : pandas, matplotlib, seaborn, re, basemap, numpy  
+**Algorithms/methods** : Pearson correlation, Histograms, scatter plots, localized plots
+
 ### [Analyzing CIA's World Factbook](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/World%20Factbook/World%20Factbook.ipynb)
 **Languages** : Python, SQL   
 **Libraries** : sqlite3, pandas, matplotlib, seaborn  

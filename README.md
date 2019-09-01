@@ -14,7 +14,7 @@ Here are some fun and short projects I've been working on in my free time to be 
 ### [Classify Song Genres From Audio Data](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Classify%20Song%20Genres%20from%20Audio%20Data/classify_song_genres.ipynb)
 **Language** : Python  
 **Libraries** : pandas, scikit-learn  
-**Algorithms/methods** : Pearson correlation, PCA, Standardization, Decision Trees, Logistic Regression, Cross-validation 
+**Algorithms/methods** : Pearson correlation, PCA, Standardization, Decision Trees, Logistic Regression, Cross-validation
 
 ### [Blood Donations Prediction](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Blood%20Donations/Blood.ipynb)
 **Language** : Python  
@@ -37,6 +37,11 @@ Here are some fun and short projects I've been working on in my free time to be 
 **Language** : Python   
 **Libraries** : pandas, matplotlib, seaborn, scipy  
 **Algorithms/methods** : Pearson correlation, Histograms, scatter plots, linear regression, residuals
+
+### [Analyzing New York City High Schools](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/NYC%20Schools/NYC%20Schools.ipynb)
+**Language** : Python   
+**Libraries** : pandas, matplotlib, seaborn, re, basemap, numpy  
+**Algorithms/methods** : Pearson correlation, Histograms, scatter plots, localized plots  
 
 ### [Analyzing CIA's World Factbook](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Data%20Analytics/World%20Factbook/World%20Factbook.ipynb)
 **Languages** : Python, SQL   
