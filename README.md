@@ -18,7 +18,7 @@ Here are some fun and short projects I've been working on in my free time to be 
 
 ### [Blood Donations Prediction](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Machine%20Learning/Blood%20Donations/Blood.ipynb)
 **Language** : Python  
-**Libraries** : pandas, scikit-learn, TPOT, numpy
+**Libraries** : pandas, scikit-learn, TPOT, numpy  
 **Algorithms/methods** : Logistic Regression, ROC AUC, Log-normalization
 
 ### [House Price Prediction](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Machine%20Learning/House%20Sale%20Price/House%20Price.ipynb)
