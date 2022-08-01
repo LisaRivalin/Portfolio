@@ -1,4 +1,4 @@
-Here are some fun and short projects I've been working on in my free time to be more compliant with Data Science / Machine Learning / Deep Learning tools away from my research focus.
+Here are some fun and short projects I've been working on in my free time.
 
 # Machine Learning
 ### [American Sign Language Recognition with Deep Learning](https://nbviewer.jupyter.org/github/LisaRivalin/Portfolio/blob/master/Machine%20Learning/ASL%20Recognition%20with%20Deep%20Learning/ASL.ipynb)
